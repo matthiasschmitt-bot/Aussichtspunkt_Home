@@ -3,8 +3,9 @@
 
 Einblick von zuhause 
 
+# Aussichtspunkt_Home
 
-"C:\Users\User\OneDrive - Smart Industry Campus GmbH\Desktop\IMG_20260420_103346.jpg"
+Einblick von zuhause
 
-
-"C:\Users\User\OneDrive - Smart Industry Campus GmbH\Desktop\IMG_20260420_103357.jpg"
+![Aussicht 1](IMG_20260420_103346.jpg)
+![Aussicht 2](IMG_20260420_103357.jpg)
